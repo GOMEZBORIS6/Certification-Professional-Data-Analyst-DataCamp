@@ -14,8 +14,11 @@ companies. We have built long lasting relationships with our customers and they 
 
 Six weeks ago we launched a new line of office stationery. Despite the world becoming increasingly digital, there is still demand for notebooks, pens and sticky notes. Our focus has been on selling products to enable our customers to be more creative, focused
 on tools for brainstorming. We have tested three different sales strategies for this, targeted email and phone calls, as well as combining the two.
+
 **Email:** Customers in this group received an email when the product line was launched, and a further email three weeks later. This required very little work for the team.
+
 **Call:** Customers in this group were called by a member of the sales team. On average members of the team were on the phone for around thirty minutes per customer.
+
 **Email and call:** Customers in this group were first sent the product information email, then called a week later by the sales team to talk about their needs and how this new product may support their work. The email required little work from the team, the call was around ten minutes per customer.
 
 ## Data Information
@@ -80,6 +83,7 @@ Your written report should include written text summaries and graphics of the fo
 - **Final summary including recommendations** that the business should undertake
 
 Questions to need answers in this Exam: 
+
 We need to know:
 
 - How many customers were there for each approach?
